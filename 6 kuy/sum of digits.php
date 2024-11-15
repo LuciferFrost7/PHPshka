@@ -1,4 +1,4 @@
-<php?
+<?php
 
 function digital_root($number): int
 {
